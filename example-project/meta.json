@@ -1,0 +1,41 @@
+{
+  "object_tags": [],
+  "image_tags": [],
+  "classes": [
+    {
+      "title": "accessory",
+      "shape": "rectangle",
+      "color": "#A75794"
+    },
+    {
+      "title": "bag",
+      "shape": "polygon",
+      "color": "#C117C7"
+    },
+    {
+      "title": "cloth",
+      "shape": "polygon",
+      "color": "#F8E71C"
+    },
+    {
+      "title": "device",
+      "shape": "bitmap",
+      "color": "#2DA3F8"
+    },
+    {
+      "title": "donut",
+      "shape": "polygon",
+      "color": "#217108"
+    },
+    {
+      "title": "person",
+      "shape": "bitmap",
+      "color": "#9C69D9"
+    },
+    {
+      "title": "shoes",
+      "shape": "bitmap",
+      "color": "#BA5F5C"
+    }
+  ]
+}
